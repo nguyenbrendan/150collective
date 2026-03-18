@@ -1,0 +1,399 @@
+{
+  "snapshots": [
+    {
+      "date": "2026-03-18",
+      "month": "March 2026",
+      "hardstyle": {
+        "artists": [
+          {
+            "name": "Headhunterz",
+            "id": "6C0KWmCdqrLU2LzzWBPbOy",
+            "followers": 0,
+            "popularity": 0,
+            "genres": []
+          },
+          {
+            "name": "Da Tweekaz",
+            "id": "6UOk7DmvqlzWmo6gjhZvn6",
+            "followers": 0,
+            "popularity": 0,
+            "genres": []
+          },
+          {
+            "name": "Sub Zero Project",
+            "id": "4f0OXMMSxr0r8Ztx6CdpAl",
+            "followers": 0,
+            "popularity": 0,
+            "genres": []
+          },
+          {
+            "name": "Ran-D",
+            "id": "7IeovKzVkfcG9mIJGNzTcT",
+            "followers": 0,
+            "popularity": 0,
+            "genres": []
+          },
+          {
+            "name": "Brennan Heart",
+            "id": "5QySqc6yAFDx9m7fedFZmC",
+            "followers": 0,
+            "popularity": 0,
+            "genres": []
+          },
+          {
+            "name": "Wildstylez",
+            "id": "0wr85NuJuAYZsRzP1lJgiV",
+            "followers": 0,
+            "popularity": 0,
+            "genres": []
+          },
+          {
+            "name": "Sound Rush",
+            "id": "7IFPeV5Ew63S7Hid0AjNgK",
+            "followers": 0,
+            "popularity": 0,
+            "genres": []
+          },
+          {
+            "name": "Radical Redemption",
+            "id": "3Ij56hbjOTHq8RgutQwfxC",
+            "followers": 0,
+            "popularity": 0,
+            "genres": []
+          },
+          {
+            "name": "Warface",
+            "id": "1wuQQfTDZhgNb4GJyhThUs",
+            "followers": 0,
+            "popularity": 0,
+            "genres": []
+          },
+          {
+            "name": "Rebelion",
+            "id": "5JcSyYpBdqCmjJyVlKh7Yg",
+            "followers": 0,
+            "popularity": 0,
+            "genres": []
+          },
+          {
+            "name": "D-Block & S-te-Fan",
+            "id": "6L7a6wPGpvLtTwOsMLnF1z",
+            "followers": 0,
+            "popularity": 0,
+            "genres": []
+          },
+          {
+            "name": "Atmozfears",
+            "id": "0MBGxwmCdXdO26ojaNcT64",
+            "followers": 0,
+            "popularity": 0,
+            "genres": []
+          },
+          {
+            "name": "Noisecontrollers",
+            "id": "6qJ61DomA73g7jQEKESw9Z",
+            "followers": 0,
+            "popularity": 0,
+            "genres": []
+          },
+          {
+            "name": "Lil Texas",
+            "id": "76raIy8boaM9sf9gMGXGJ5",
+            "followers": 0,
+            "popularity": 0,
+            "genres": []
+          },
+          {
+            "name": "Lady Faith",
+            "id": "1va2Hj3SvWvu3L6jAN6k01",
+            "followers": 0,
+            "popularity": 0,
+            "genres": []
+          }
+        ],
+        "totalArtistFollowers": 0,
+        "avgPopularity": 0.0,
+        "topPlaylists": [
+          {
+            "name": "HARDSTYLE 2026  😈🔱  SET FIRE TO THE RAIN HARDSTYLE, TEK IT HARDSTYLE, ONLY GIRL HARDSTYLE, AOT HARD",
+            "id": "4QXT8GMsShzuOlkX9oGrYy",
+            "followers": 1022104,
+            "tracks": 0,
+            "owner": "SICK LEGEND"
+          },
+          {
+            "name": "Gym Hardstyle 2026 💪 Top 100",
+            "id": "766wQ733vRmpmKqIU5fyvR",
+            "followers": 836786,
+            "tracks": 0,
+            "owner": "Otaku"
+          },
+          {
+            "name": "Hardstyle 2026🔥Top 100",
+            "id": "3bGSAHGYFEDxyEj7uXe0qq",
+            "followers": 476467,
+            "tracks": 0,
+            "owner": "Naeleck"
+          },
+          {
+            "name": " HIGH ENERGY RAP HYPE 🔥 GYM RAP WORKOUT  - GYM PUMP ",
+            "id": "3Qlo8PGJKE53FgTcIjuIvJ",
+            "followers": 101727,
+            "tracks": 0,
+            "owner": "@robi.robillard"
+          },
+          {
+            "name": "HARD TECHNO 2026 ⛓️😈",
+            "id": "5Y22UowMnY6yD3saFyUPxX",
+            "followers": 93417,
+            "tracks": 0,
+            "owner": "bounceandbass"
+          },
+          {
+            "name": "Hardcore Techno Hardstyle ☠️",
+            "id": "3qUEgJcIyssZACs5r4Eicu",
+            "followers": 88345,
+            "tracks": 0,
+            "owner": "marko w"
+          },
+          {
+            "name": "REAL RAWSTYLE 🔥",
+            "id": "3yP7KwxECYE9O2d6rBBSn0",
+            "followers": 61272,
+            "tracks": 0,
+            "owner": "Jeroen Peters"
+          },
+          {
+            "name": "RAWSTYLE  2026 🚀 (Daily Updated)",
+            "id": "3opjLW1qBOZHNWIw3yHuRq",
+            "followers": 34298,
+            "tracks": 0,
+            "owner": "@anhoniem"
+          },
+          {
+            "name": "Euphoric Hardstyle",
+            "id": "2haltdKf2U7JhvCpeI3bpM",
+            "followers": 25998,
+            "tracks": 0,
+            "owner": "Jonathan Stockhaus"
+          },
+          {
+            "name": "Euphoric Hardstyle 2026 🤟🔥",
+            "id": "1EmfWav1JYgAt0slcvJ352",
+            "followers": 25013,
+            "tracks": 0,
+            "owner": "Matduke"
+          },
+          {
+            "name": "ACTUALLY GOOD  HARDSTYLE GYM PLAYLIST",
+            "id": "5FwoQeE2v5BGBvNj4JvdWl",
+            "followers": 9430,
+            "tracks": 0,
+            "owner": "soldierintl"
+          },
+          {
+            "name": "pov: ur studying law ⚖️✨",
+            "id": "2PhMIbzotHwy59pRvddSFQ",
+            "followers": 7932,
+            "tracks": 0,
+            "owner": "melli <3"
+          },
+          {
+            "name": "Hardstyle & EDM (goes hard!)",
+            "id": "45vL1hbC3T1aB2k4jBzRY1",
+            "followers": 1620,
+            "tracks": 0,
+            "owner": "@andrew.c.henke"
+          },
+          {
+            "name": "Golden Era of Euphoric Hardstyle",
+            "id": "5xZgsKrpOBgigHYObiZxPE",
+            "followers": 973,
+            "tracks": 0,
+            "owner": "ColFearz"
+          }
+        ],
+        "totalPlaylistFollowers": 2785382
+      },
+      "hardTechno": {
+        "artists": [
+          {
+            "name": "Sara Landry",
+            "id": "7eILArMiTFTQf8SEh5fFHK",
+            "followers": 0,
+            "popularity": 0,
+            "genres": []
+          },
+          {
+            "name": "VTSS",
+            "id": "0zo109NM3S7CqHpvlXwqEN",
+            "followers": 0,
+            "popularity": 0,
+            "genres": []
+          },
+          {
+            "name": "Klangkuenstler",
+            "id": "6H77vD9YyhyxHBTkRpbMBk",
+            "followers": 0,
+            "popularity": 0,
+            "genres": []
+          },
+          {
+            "name": "Nico Moreno",
+            "id": "6fjhNhp9IoeiZpEXq9AT2S",
+            "followers": 0,
+            "popularity": 0,
+            "genres": []
+          },
+          {
+            "name": "AIROD",
+            "id": "3oPI0nOC7MHooFy5qDsFrv",
+            "followers": 0,
+            "popularity": 0,
+            "genres": []
+          },
+          {
+            "name": "999999999",
+            "id": "6uD2LjPHUjxrpax0se17Nc",
+            "followers": 0,
+            "popularity": 0,
+            "genres": []
+          },
+          {
+            "name": "Amelie Lens",
+            "id": "5Ho1vKl1Uz8bJlk4vbmvmf",
+            "followers": 0,
+            "popularity": 0,
+            "genres": []
+          }
+        ],
+        "totalArtistFollowers": 0,
+        "avgPopularity": 0.0,
+        "topPlaylists": [
+          {
+            "name": "Techno Music 2026 💊",
+            "id": "18vUeZ9BdtMRNV6gI8RnR6",
+            "followers": 815854,
+            "tracks": 0,
+            "owner": "Soave"
+          },
+          {
+            "name": "Techno Rave.💊",
+            "id": "5DutDksCDPMirP40odZ0gf",
+            "followers": 624171,
+            "tracks": 0,
+            "owner": "TheonlyMajed"
+          },
+          {
+            "name": "⛓️ HARD TECHNO RAVE ⛓️",
+            "id": "1ZIoxsGTNSYtabfYxddRNo",
+            "followers": 234371,
+            "tracks": 0,
+            "owner": "Elias"
+          },
+          {
+            "name": "HARD TECHNO 2026",
+            "id": "1WJwx5YU6SQQm7S1Eam5gu",
+            "followers": 184958,
+            "tracks": 0,
+            "owner": "Revised Records"
+          },
+          {
+            "name": "HARD TECHNO 2026 ⛓️😈",
+            "id": "5Y22UowMnY6yD3saFyUPxX",
+            "followers": 93417,
+            "tracks": 0,
+            "owner": "bounceandbass"
+          },
+          {
+            "name": "HARD TECHNO 2026 | Peak-Time Techno, Acid Techno & Rave Techno",
+            "id": "5MpV76gTG4Ztv7DVCSxZPb",
+            "followers": 7424,
+            "tracks": 0,
+            "owner": "Revised Records"
+          }
+        ],
+        "totalPlaylistFollowers": 1960195
+      },
+      "trackedPlaylists": [],
+      "comparison": {
+        "artistFollowerRatio": 0,
+        "popularityDiff": 0.0,
+        "playlistFollowerRatio": 1.42
+      },
+      "webData": {
+        "artistMonthlyListeners": {
+          "hardstyle": {
+            "Headhunterz": 1200000,
+            "Da Tweekaz": 1700000,
+            "Sub Zero Project": 1200000,
+            "Brennan Heart": 800000,
+            "Wildstylez": 500000,
+            "Sound Rush": 600000,
+            "Ran-D": 400000,
+            "Radical Redemption": 300000,
+            "Warface": 250000,
+            "Rebelion": 200000,
+            "D-Block S-te-Fan": 400000,
+            "Atmozfears": 350000,
+            "Noisecontrollers": 300000,
+            "Lil Texas": 150000,
+            "Lady Faith": 50000
+          },
+          "hardTechno": {
+            "Sara Landry": 1300000,
+            "Amelie Lens": 1200000,
+            "VTSS": 400000,
+            "Klangkuenstler": 350000,
+            "Nico Moreno": 300000,
+            "AIROD": 250000,
+            "999999999": 200000
+          }
+        },
+        "googleTrends": {
+          "summary": "Hard techno trending higher in the US due to TikTok virality. Hardstyle stable but not growing as fast. Hard techno spiked in 2025, hardstyle shows seasonal spikes around EDC (May/June).",
+          "winner": "hard techno (trending)",
+          "hardstyleDirection": "stable",
+          "hardTechnoDirection": "rising"
+        },
+        "insomniacEvents2026": {
+          "basscon": {
+            "standaloneEvents": ["Wasteland Festival (Sep 4-5, NOS)", "Vancouver show (Mar 13-14)"],
+            "festivalStages": ["wasteLAND at EDC Vegas (shared with hard techno)"],
+            "poolClubShows": ["None confirmed for EDC Week 2026"],
+            "total": 3,
+            "notes": "Wasteland now shared with Mutate and Unreal Germany. No Basscon night swim confirmed."
+          },
+          "factory93": {
+            "standaloneEvents": ["Skyline Festival LA (Feb 28 - Mar 1)", "Mexico City (Feb 20-22)", "SF (Feb 28)", "Vancouver (Mar 28)", "Miami (May 15-16)"],
+            "festivalStages": ["neonGARDEN at EDC Vegas"],
+            "poolClubShows": ["Multiple EDC Week events"],
+            "total": 7,
+            "notes": "Multiple cities, multi-day festivals, international presence."
+          },
+          "bassrush": {
+            "standaloneEvents": ["LA (Feb 28 - Mar 1)", "Orlando (Apr 25-26)", "LA concerts (Mar 6-7)", "Seattle (Mar 7)", "SF Winter Tour (Mar 13-14)", "Denver (Mar 21)", "SF Enigma (Mar 20)"],
+            "festivalStages": ["bassPOD at EDC Vegas"],
+            "poolClubShows": ["Bassrush Massive EDC Week (May 14)", "Bassrush Pool Party EDC Week (May 14)"],
+            "total": 11,
+            "notes": "Most events of any sub-brand. Multiple cities, pool party + massive during EDC Week."
+          }
+        },
+        "disparityIndex": {
+          "factory93VsBasscon": "2.3x more events",
+          "bassrushVsBasscon": "3.7x more events",
+          "bassconNightSwim2026": false,
+          "bassrushPoolParty2026": true,
+          "factory93PoolParty2026": true
+        }
+      }
+    }
+  ],
+  "summary": {
+    "lastUpdated": "2026-03-18",
+    "totalSnapshots": 1,
+    "monthsCovered": [
+      "March 2026"
+    ]
+  }
+}
