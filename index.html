@@ -361,22 +361,6 @@ section { margin-bottom: 56px; }
 </head>
 <body>
 
-<!-- PASSWORD GATE -->
-<div id="auth-gate" style="display:flex; align-items:center; justify-content:center; min-height:100vh; background:#0a0a0a;">
-  <div style="text-align:center; max-width:400px; padding:40px;">
-    <h1 style="font-size:32px; font-weight:800; background:linear-gradient(135deg, #ff3333, #ff6600); -webkit-background-clip:text; -webkit-text-fill-color:transparent; margin-bottom:8px;">150 COLLECTIVE</h1>
-    <p style="color:#888; margin-bottom:32px; font-size:14px;">Hardstyle USA Campaign Dashboard</p>
-    <input id="auth-input" type="password" placeholder="Enter access code"
-      style="width:100%; padding:14px 18px; background:#1a1a1a; border:1px solid #2a2a2a; border-radius:8px; color:#e0e0e0; font-size:15px; outline:none; margin-bottom:12px;"
-      onkeydown="if(event.key==='Enter')checkAuth()">
-    <button onclick="checkAuth()"
-      style="width:100%; padding:12px; background:linear-gradient(135deg, #ff3333, #ff6600); color:#fff; border:none; border-radius:8px; font-size:14px; font-weight:600; cursor:pointer;">
-      Enter</button>
-    <p id="auth-error" style="color:#ff3333; font-size:13px; margin-top:12px; display:none;">Wrong code.</p>
-  </div>
-</div>
-
-<div id="main-content" style="display:none;">
 
 <!-- NAVIGATION -->
 <nav class="nav">
@@ -1024,27 +1008,8 @@ function renderEventsChart(events) {
 renderDJGrid();
 loadData();
 
-// Auth
-function checkAuth() {
-  const input = document.getElementById('auth-input').value;
-  // Simple hash check (password: "150bpm")
-  if (input === '150bpm') {
-    document.getElementById('auth-gate').style.display = 'none';
-    document.getElementById('main-content').style.display = 'block';
-    sessionStorage.setItem('150auth', '1');
-  } else {
-    document.getElementById('auth-error').style.display = 'block';
-    document.getElementById('auth-input').value = '';
-  }
-}
-// Auto-login if already authenticated this session
-if (sessionStorage.getItem('150auth') === '1') {
-  document.getElementById('auth-gate').style.display = 'none';
-  document.getElementById('main-content').style.display = 'block';
-}
-</script>
 
-</div><!-- end main-content -->
+</script>
 
 </body>
 </html>
